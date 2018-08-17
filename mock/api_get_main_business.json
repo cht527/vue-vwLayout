@@ -1,0 +1,8 @@
+{
+    "data":[
+        {"cityId":1,"cityName":"北京","areaId":1138,"areaName":"东城","businessId":1156,"businessName":"东直门","weight":0,"userId":49146234108946,"cateId":12,"sysGenerate":0},
+        {"cityId":1,"cityName":"北京","areaId":1142,"areaName":"朝阳","businessId":7555,"businessName":"百子湾","weight":0,"userId":49146234108946,"cateId":12,"sysGenerate":0}
+    ],
+    "msg":"获取用户主营商圈成功!",
+    "code":0
+}

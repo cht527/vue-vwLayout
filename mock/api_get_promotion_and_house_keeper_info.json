@@ -1,0 +1,10 @@
+{   
+    "data":[
+        {"copyWriterContent":"推广房源不给力","buttonJumpType":"5002","status":1},
+        {"copyWriterContent":"推广效果不佳","buttonJumpType":"5002","status":1},
+        {"copyWriterContent":"排名没有变化","buttonJumpType":"5302","status":1},
+        {"copyWriterContent":"房源质量很棒","buttonJumpType":"5002","status":0}
+    ],
+    "msg":"获取推广管家信息成功!",
+    "code":0
+}
