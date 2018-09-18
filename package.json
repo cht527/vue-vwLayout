@@ -1,7 +1,7 @@
 {
-  "name": "f-vue-template",
+  "name": "vue-vw-template",
   "version": "1.0.0",
-  "description": "hbg mobile vue project staging.",
+  "description": "vw layout for vue project",
   "scripts": {
     "clean": "rimraf ./build/*",
     "build": "npm run clean && cross-env NODE_ENV=production webpack --progress --hide-modules --config ./config/webpack.prod.config.js",
@@ -10,11 +10,11 @@
     "lint": "eslint --ext .js,.vue src",
     "fix": "eslint --ext .js,.vue src --fix"
   },
-  "author": "fangfe",
+  "author": "cht",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "http://gitlab.58corp.com/fangfe/f-vue-vw-template.git"
+    "url": ""
   },
   "dependencies": {
     "axios": "^0.18.0",
@@ -23,7 +23,6 @@
     "mint-ui": "^2.2.13",
     "postcss-aspect-ratio-mini": "^0.0.2",
     "postcss-px-to-viewport": "^0.0.3",
-    "postcss-viewport-units": "^0.1.4",
     "qs": "^6.5.1",
     "vue": "^2.5.2",
     "vue-lazyload": "^1.2.2"
